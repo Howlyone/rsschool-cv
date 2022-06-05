@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Howlyone.github.io/rsschool-cv/cv
