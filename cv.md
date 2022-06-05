@@ -11,3 +11,16 @@
 + __Discord:__ Yahor Miranovich (@Howlyone)
 
 ___
+
+ About me 
+I'm 22 years old. I have exellent communication skills and fast learning. I have no work experience, but I'm currently studying to become a good specialist.
+
+___
+
+# Code example
+```javascript
+   function multiply(a, b){
+    return a * b 
+ }
+ ```
+ ___
