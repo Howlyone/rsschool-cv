@@ -24,3 +24,11 @@ ___
  }
  ```
  ___
+
+# Education
+
++ __Average__ 
+
+# English 
+
++ __Intermediate(_B1_)__
